@@ -1,1 +1,1 @@
-# Prediction_InsuranceFruad
+# Predict Insurance Fraud
